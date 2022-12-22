@@ -6,7 +6,7 @@ import Header from "./componenents/Header"
 import Footer from "./componenents/Footer"
 
 //Let it snow!
-import ReactDOM from 'react-dom'
+// import ReactDOM from 'react-dom'
 import Snowfall from 'react-snowfall'
 
 //Setting the useState hook to take the data to be displayed in the list .
