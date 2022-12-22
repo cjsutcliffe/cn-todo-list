@@ -5,11 +5,10 @@ import TodoItem from "./componenents/TodoItem"
 import Header from "./componenents/Header"
 import Footer from "./componenents/Footer"
 
-//Let it snow!
-// import ReactDOM from 'react-dom'
+//Let it snow! https://github.com/cahilfoley/react-snowfall
 import Snowfall from 'react-snowfall'
 
-//Setting the useState hook to take the data to be displayed in the list .
+//Setting the useState hook to take the data to be displayed in the list npm starst.
 //Using an array with 2 key value pairs.
 // One to show the todo and another to track completed ones
 
